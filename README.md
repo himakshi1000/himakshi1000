@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Data Analytics and Visualization<br>🎯 Goals: 💵💵<br>Quote i Like : Even if you are bad at something never quit,theres a reason why we call it a trash can and not a trash can't.</p>
-
-###
-
 <h2 align="left">I code with Passion</h2>
 
 ###
